@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivitatePreluare"
+    android:orientation="vertical"
+    android:layout_gravity="center">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id_factura"
+        android:hint="Id Factura"
+        android:inputType="number">
+    </EditText>
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radiogroup"
+        android:checkedButton="@+id/radiobutton_numerar">
+
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Numerar"
+                android:id="@+id/radiobutton_numerar"></RadioButton>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cu cardul"
+                android:id="@+id/radiobutton_card">
+            </RadioButton>
+    </RadioGroup>
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner_tip_plata">
+    </Spinner>
+
+    <TimePicker
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/timepicker_ora_plata">
+    </TimePicker>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="Suma"
+        android:id="@+id/et_suma">
+    </EditText>
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Creare"
+        android:id="@+id/btn_creare">
+    </Button>
+    </LinearLayout>
+
+</LinearLayout>

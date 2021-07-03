@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+        android:id="@+id/menu_actualizare"
+        android:title="Actualizare">
+    </item>
+    <item
+        android:id="@+id/menu_stergere"
+        android:title="Stergere">
+    </item>
+    <item
+        android:id="@+id/menu_salvare"
+        android:title="Salvare">
+    </item>
+</menu>
