@@ -14,17 +14,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c167cf67-71f3-4c40-8b1b-9e685834e754" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ListView_Adapter_Tranzactie/app/src/main/java/com/example/listview_adaptor_material/CreareMaterial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListView_Adapter_Tranzactie/app/src/main/java/com/example/listview_adaptor_material/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListView_Adapter_Tranzactie/app/src/main/java/com/example/listview_adaptor_material/Material.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListView_Adapter_Tranzactie/app/src/main/java/com/example/listview_adaptor_material/MaterialeAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\voine\.android\avd\Pixel_2_API_26.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -48,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.459666366">
@@ -58,9 +55,7 @@
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="Listview_Adaptor_Material.app" />
@@ -116,9 +111,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -145,21 +138,21 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="860" y="460" key="AndroidCreateResourceFileDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1625380416441" />
-    <state width="2517" height="404" key="GridCell.Tab.0.bottom" timestamp="1625385272566">
+    <state width="2517" height="404" key="GridCell.Tab.0.bottom" timestamp="1625385717766">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="2517" height="404" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1625385272566" />
-    <state width="2517" height="404" key="GridCell.Tab.0.center" timestamp="1625385272565">
+    <state width="2517" height="404" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1625385717766" />
+    <state width="2517" height="404" key="GridCell.Tab.0.center" timestamp="1625385717766">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="2517" height="404" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1625385272565" />
-    <state width="2517" height="404" key="GridCell.Tab.0.left" timestamp="1625385272565">
+    <state width="2517" height="404" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1625385717766" />
+    <state width="2517" height="404" key="GridCell.Tab.0.left" timestamp="1625385717766">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="2517" height="404" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1625385272565" />
-    <state width="2517" height="404" key="GridCell.Tab.0.right" timestamp="1625385272565">
+    <state width="2517" height="404" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1625385717766" />
+    <state width="2517" height="404" key="GridCell.Tab.0.right" timestamp="1625385717766">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="2517" height="404" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1625385272565" />
+    <state width="2517" height="404" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1625385717766" />
   </component>
 </project>
